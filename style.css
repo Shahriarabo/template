@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.header {
+    text-align: center;
+}
+.header hr{
+    width: 179px;
+    margin: 0 auto;
+    
+}
+.hero-img{
+    float: left;
+    margin-right: 11px;
+}
+.hero-text{
+ text-align: justify;
+}
+.desception  p  {
+	float: left;
+	margin-top: 14px;
+}
+.section-three  p {
+	margin-top: 141px;
+    text-align: justify;
+}
+.section-three img {
+  margin-left: 10px;  
+}
+.section-fore {
+	margin-top: 90px;	
+}
+.container{
+    width: 1040px;
+    margin: 0 auto;
+}
+element {
+	text-align: center;
+	background: burlywood;
+}
+.hero.section {
+	margin-top: 22px;
+}
